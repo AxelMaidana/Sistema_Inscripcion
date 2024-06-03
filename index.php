@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <title>Inscripción de Alumnoss</title>
+    <title>UTN - Universidad Tecnológica Nacional</title>
 </head>
 <body class="bg-gray-100 min-h-screen flex flex-col">
     <!-- header -->
@@ -15,6 +15,7 @@
                 </a>
             </div>
             <div class="hidden lg:flex items-center space-x-6 gap-x-8 mr-12">
+                <a href="#" class="text-gray-300 hover:text-white transition">Home</a>
                 <a href="#features" class="text-gray-300 hover:text-white transition">Carreras</a>
                 <a href="#solution" class="text-gray-300 hover:text-white transition">Investigacion</a>
                 <a href="#testimonials" class="text-gray-300 hover:text-white transition">Asunt.Univ</a>
@@ -51,6 +52,7 @@
         </div>
         <!-- fin de hero -->
     </div>
+    <!-- fin de contenido principal -->
     
     <!-- Footer -->
     <footer class="bg-gray-900 w-full p-6 mt-12">
